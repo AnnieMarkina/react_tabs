@@ -1,0 +1,2 @@
+.tabs__item{padding-left:40px;padding-right:40px;border-bottom:2px solid pink;cursor:pointer}.tabs__item.active{color:#b84458;border-bottom:3px solid #b84458;font-weight:600;transition:all .5s}.tabs__container{width:30%;border:1px solid #a7a5a5;margin:auto;display:flex;flex-direction:column}.tabs__nav{display:flex;flex-direction:row;justify-content:space-around}.tabs__content{padding:40px;text-align:center}
+/*# sourceMappingURL=main.7fb4a9da.chunk.css.map */
